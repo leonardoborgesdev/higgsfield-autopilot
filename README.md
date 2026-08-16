@@ -1,5 +1,7 @@
 # Higgsfield Browser Automation
 
+[![License: MIT](https://img.shields.io/github/license/leonardoborgesdev/higgsfield-autopilot)](LICENSE) [![Top language](https://img.shields.io/github/languages/top/leonardoborgesdev/higgsfield-autopilot)](#)
+
 Automate video generation on [Higgsfield](https://higgsfield.ai) (Cinema Studio / Seedance)
 through the browser: paste a prompt, hit Generate, verify it landed, repeat — either one
 prompt at a time or as an unattended overnight loop that fires a new generation every
